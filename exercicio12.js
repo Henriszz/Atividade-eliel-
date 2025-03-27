@@ -1,6 +1,4 @@
-public class Exercicio12 {
-    public static void main(String[] args) {
-        String palavra1 = "Programação", palavra2 = "Java";
-        System.out.println(palavra1 + " " + palavra2);
-    }
-}
+let palavra1 = "Programação";
+let palavra2 = "JavaScript";
+console.log(`${palavra1} ${palavra2}`);
+

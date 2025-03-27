@@ -1,7 +1,5 @@
-public class Exercicio3 {
-    public static void main(String[] args) {
-        int num1 = 50, num2 = 23;
-        int resultado = num1 - num2;
-        System.out.println("A subtração de " + num1 + " menos " + num2 + " é: " + resultado);
-    }
-}
+let num1 = 30;
+let num2 = 12;
+let subtracao = num1 - num2;
+console.log(`A subtração de ${num1} menos ${num2} é: ${subtracao}`);
+

@@ -1,12 +1,9 @@
-public class Exercicio9 {
-    public static void main(String[] args) {
-        int a = 15, b = 10;
-        if (a > b) {
-            System.out.println(a + " é maior que " + b);
-        } else if (a < b) {
-            System.out.println(a + " é menor que " + b);
-        } else {
-            System.out.println("Os números são iguais.");
-        }
-    }
+let num1 = 15;
+let num2 = 10;
+if (num1 > num2) {
+    console.log(`${num1} é maior que ${num2}`);
+} else if (num1 < num2) {
+    console.log(`${num1} é menor que ${num2}`);
+} else {
+    console.log("Os números são iguais.");
 }
